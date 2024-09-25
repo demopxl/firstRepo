@@ -1,1 +1,4 @@
+-----
 eerste bestand met een aanpassing in
+-----
+Een uitbreiding in het eerste bestand
